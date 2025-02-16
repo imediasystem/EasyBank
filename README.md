@@ -1,8 +1,8 @@
 ## 🔥 Project Name - EASYBANK
 
-See the live version of [BISTRO](https://imediasystem.github.io/Bistro/)
+See the live version of [EASYBANK](https://imediasystem.github.io/Bistro/)
 
-Developing a website for a local restaurant, emphasizing aesthetic design and ease of use with HTML, CSS, JavaScript, and React to attract and retain customers. This project allows me to combine creativity with technical skills.
+Developing a landig page website for a commercial bank, emphasizing aesthetic design and ease of use with HTML, CSS, SASS and JavaScript to attract and retain customers. This project allows me to combine creativity with technical skills.
 
 &nbsp;
 
