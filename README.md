@@ -1,7 +1,7 @@
 ![EasyBank](https://github.com/user-attachments/assets/893d2479-2f6e-48b5-98f4-365b289f71d8)
 
 ## 🔥 Project Name - EASYBANK
-See the live version of [EASYBANK](https://imediasystem.github.io/Bistro/)
+See the live version of [EASYBANK](https://imediasystem.github.io/EasyBank/)
 
 Developing a landig page website for a commercial bank, emphasizing aesthetic design and ease of use with HTML, CSS, SASS and JavaScript to attract and retain customers. This project allows me to combine creativity with technical skills.
 
