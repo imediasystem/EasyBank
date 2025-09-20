@@ -1,4 +1,4 @@
-![EasyBank](https://github.com/user-attachments/assets/893d2479-2f6e-48b5-98f4-365b289f71d8)
+[![EasyBank](https://github.com/user-attachments/assets/893d2479-2f6e-48b5-98f4-365b289f71d8)](https://imediasystem.github.io/EasyBank/)
 
 ## 🔥 Project Name - EASYBANK
 See the live version of [EASYBANK](https://imediasystem.github.io/EasyBank/) ↗️
