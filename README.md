@@ -1,15 +1,22 @@
 [![EasyBank](https://github.com/user-attachments/assets/893d2479-2f6e-48b5-98f4-365b289f71d8)](https://imediasystem.github.io/EasyBank/)
 
 ## 🔥 Project Name - EASYBANK
-See the live version of [EASYBANK](https://imediasystem.github.io/EasyBank/) ↗️
+
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/EasyBank/)
 
 Developing a landig page website for a commercial bank, emphasizing aesthetic design and ease of use with HTML, CSS, SASS and JavaScript to attract and retain customers. This project allows me to combine creativity with technical skills.
 &nbsp;
 
-## 📚 Technologies / Frameworks / Platforms / Libraries
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
+## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SASS](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 &nbsp;
 
@@ -21,8 +28,13 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
 
-## 📝 Feel free to contact me
-Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true) ↗️ or [Facebook](https://www.facebook.com/profile.php?id=61577832340228) ↗️
+## 📩 Contact / Collaboration
+Looking for a professional website for your creative business? Let’s talk about your project!
+
+[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61577832340228)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/imedia-system/about/?viewAsMember=true)
+
+> **Ready to bring your vision to life? Drop me a message and let's create something amazing together!**
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
